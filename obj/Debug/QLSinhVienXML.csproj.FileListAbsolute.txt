@@ -1,0 +1,10 @@
+D:\le quang binh\2018-2019\Lap Trinh CSDL\lap5\QLSinhVienXML\QLSinhVienXML\bin\Debug\QLSinhVienXML.exe.config
+D:\le quang binh\2018-2019\Lap Trinh CSDL\lap4\QLSinhVienXML\QLSinhVienXML\bin\Debug\QLSinhVienXML.exe.config
+D:\le quang binh\2018-2019\Lap Trinh CSDL\lap4\QLSinhVienXML\QLSinhVienXML\bin\Debug\QLSinhVienXML.exe
+D:\le quang binh\2018-2019\Lap Trinh CSDL\lap4\QLSinhVienXML\QLSinhVienXML\bin\Debug\QLSinhVienXML.pdb
+D:\le quang binh\2018-2019\Lap Trinh CSDL\lap4\QLSinhVienXML\QLSinhVienXML\obj\Debug\QLSinhVienXML.csprojResolveAssemblyReference.cache
+D:\le quang binh\2018-2019\Lap Trinh CSDL\lap4\QLSinhVienXML\QLSinhVienXML\obj\Debug\QLSinhVienXML.Form1.resources
+D:\le quang binh\2018-2019\Lap Trinh CSDL\lap4\QLSinhVienXML\QLSinhVienXML\obj\Debug\QLSinhVienXML.Properties.Resources.resources
+D:\le quang binh\2018-2019\Lap Trinh CSDL\lap4\QLSinhVienXML\QLSinhVienXML\obj\Debug\QLSinhVienXML.csproj.GenerateResource.Cache
+D:\le quang binh\2018-2019\Lap Trinh CSDL\lap4\QLSinhVienXML\QLSinhVienXML\obj\Debug\QLSinhVienXML.exe
+D:\le quang binh\2018-2019\Lap Trinh CSDL\lap4\QLSinhVienXML\QLSinhVienXML\obj\Debug\QLSinhVienXML.pdb
